@@ -13,6 +13,8 @@ With all files maintained in the directory structure, open any of the following 
 - `wag_w.html`: Croydon Road / Wallington Green (Westbound)
 
 ### Demonstration
+![](https://github.com/ed-hy-chu/tfl-bus-countdown/blob/main/demo1.gif)
+![](https://github.com/ed-hy-chu/tfl-bus-countdown/blob/main/demo2.gif)
 
 ### Disclaimer
 - This is a personal non-profit, non-commerical project and is not maintained regularly.
